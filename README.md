@@ -1,24 +1,13 @@
 # gkz_ui
 
-## Project setup
+## 安装组件库
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm install gkz-ui
 ```
 
-### Compiles and minifies for production
+## 全局导入
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+import GkzUI form 'gkz-ui'
+import 'gkz-ui/lib/gkzui.css'
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
